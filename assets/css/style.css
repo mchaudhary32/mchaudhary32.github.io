@@ -202,7 +202,7 @@ input {
 
 /* HEADER SECTION */
 #h {
-	background: url(../img/header2.jpg) no-repeat center top;
+	background: url(assets/img/header2.jpg) no-repeat center top;
 	padding-top: 5px;
 	margin-top: auto;
 	background-attachment: relative;
