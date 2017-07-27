@@ -202,7 +202,11 @@ input {
 
 /* HEADER SECTION */
 #h {
+<<<<<<< Updated upstream
 	background: url(../img/malvika.jpg) no-repeat center top;
+=======
+	background: url(../img/malvika.JPG) no-repeat center top;
+>>>>>>> Stashed changes
 	padding-top: 5px;
 	margin-top: auto;
 	background-attachment: relative;
